@@ -4,6 +4,8 @@ Carlos Soria Elizalde
 
 Operative Robots in Store
 
+Nov 2nd 2025 Version - Subject to future changes
+
 """
 
 
@@ -2300,4 +2302,5 @@ if total_time <=200:
         append_images=images[1:], 
         duration=100,  # Duration of each frame in miliseconds.
         loop=0  # 0 for infinte loop.
+
     )
